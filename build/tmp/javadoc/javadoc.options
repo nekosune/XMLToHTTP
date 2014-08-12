@@ -1,6 +1,0 @@
--classpath '/home/nekosune/IdeaProjects/XMLtoHTML/build/classes/main:/home/nekosune/IdeaProjects/XMLtoHTML/build/resources/main'
--d '/home/nekosune/IdeaProjects/XMLtoHTML/build/docs/javadoc'
--doctitle 'XMLtoHTML 1.0 API'
--quiet 
--windowtitle 'XMLtoHTML 1.0 API'
-'/home/nekosune/IdeaProjects/XMLtoHTML/src/main/java/com/nekokittygames/xmltohttp/XmlToHttp.java'
